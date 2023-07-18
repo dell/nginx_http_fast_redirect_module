@@ -1,0 +1,8 @@
+*redirects*txt
+.*.swp
+__pycache__
+.scannerwork
+.vscode
+cicd/nginx
+jmeter.log
+/builds/
